@@ -1,1 +1,1 @@
-# equin-django-docker
+# defas-django-docker
